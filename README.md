@@ -41,7 +41,7 @@ Given the nature of drug discovery, specific focus was placed on:
 ### 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/tasostzaras/YOUR_REPO_NAME.git](https://github.com/tasostzaras/YOUR_REPO_NAME.git)
+    git clone [https://github.com/TasosTzaras/cox-inhibitor-prediction.git](https://github.com/TasosTzaras/cox-inhibitor-prediction.git)
     ```
 2.  Install dependencies:
     ```bash
@@ -49,7 +49,7 @@ Given the nature of drug discovery, specific focus was placed on:
     ```
 3.  Run the notebook:
     ```bash
-    jupyter notebook teliko.ipynb
+    jupyter notebook final_code.ipynb
     ```
 
 ### 👨‍💻 Author
